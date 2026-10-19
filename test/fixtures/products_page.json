@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "Volumizing mascara",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "brand": "Essence",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/thumbnail.png",
+      "reviews": []
+    }
+  ],
+  "total": 194,
+  "skip": 0,
+  "limit": 20
+}

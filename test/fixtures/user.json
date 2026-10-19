@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "username": "emilys",
+  "email": "emily.johnson@x.dummyjson.com",
+  "firstName": "Emily",
+  "lastName": "Johnson",
+  "gender": "female",
+  "image": "https://dummyjson.com/icon/emilys/128",
+  "accessToken": "mock_access_token_123",
+  "refreshToken": "mock_refresh_token_456"
+}
