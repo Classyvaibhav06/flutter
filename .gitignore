@@ -88,3 +88,6 @@ debug.keystore
 
 # Local tooling
 .freebuff/
+
+# Local release artefacts
+/*.apk
